@@ -13,9 +13,7 @@
 </template>
 
 <script>
-import Example2 from "./Example2.vue";
 export default {
-  components: { Example2 },
   mounted() {
     console.log("Component mounted.");
   },
